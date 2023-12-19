@@ -40,6 +40,8 @@ dependencies {
     implementation("jakarta.xml.bind:jakarta.xml.bind-api:2.3.2")
     implementation("org.glassfish.jaxb:jaxb-runtime:2.3.2")
 
+    implementation("org.apache.skywalking:apm-toolkit-trace:9.1.0")
+
     // getter/setter/builder
     implementation("org.projectlombok:lombok:1.18.26")
     annotationProcessor("org.projectlombok:lombok:1.18.26")
