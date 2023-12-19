@@ -45,3 +45,6 @@ bin/
 .idea/misc.xml
 .idea/vcs.xml
 .idea/.gitignore
+
+apache-skywalking-java-agent-9.1.0.tgz
+skywalking-agent
